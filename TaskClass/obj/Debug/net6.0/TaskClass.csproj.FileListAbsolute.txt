@@ -1,0 +1,4 @@
+C:\Users\asgarkhanmb\source\repos\task\TaskClass\TaskClass\obj\Debug\net6.0\TaskClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgarkhanmb\source\repos\task\TaskClass\TaskClass\obj\Debug\net6.0\TaskClass.AssemblyInfoInputs.cache
+C:\Users\asgarkhanmb\source\repos\task\TaskClass\TaskClass\obj\Debug\net6.0\TaskClass.AssemblyInfo.cs
+C:\Users\asgarkhanmb\source\repos\task\TaskClass\TaskClass\obj\Debug\net6.0\TaskClass.csproj.CoreCompileInputs.cache
